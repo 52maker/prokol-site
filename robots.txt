@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://52maker.github.io/prokol-site/sitemap.xml
